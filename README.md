@@ -16,7 +16,7 @@
 - Model Deployment & Scalability  
 
 ## 🛠 Tech Stack  
-**Languages:** Python, Java, JavaScript
+**Languages:** Python, Java, JavaScript  
 **Frameworks & Libraries:** React.js, Next.js, TailwindCSS, TensorFlow, LangChain  
 **Databases:** SQL, MongoDB, NeonDB  
 **Tools:** Git, Prisma, Firebase  
