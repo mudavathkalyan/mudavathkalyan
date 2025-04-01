@@ -24,7 +24,7 @@
 ## 📫 Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/kalyan-mudavath-58151b25a/) • [GitHub](https://github.com/mudavathkalyan)   
 
-⚡ **Fun Fact:*☕💻!  
+⚡ Fun Fact:☕💻!  
 
 
 <!---
