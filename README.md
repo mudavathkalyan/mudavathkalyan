@@ -10,7 +10,7 @@
 **Languages:** Python, Java, JavaScript  
 **Frameworks & Libraries:** React.js, Next.js, TailwindCSS, TensorFlow, LangChain  
 **Databases:** SQL, MongoDB
-**Tools:** Git, Prisma,postman
+**Tools:** Git,postman
 ## 📫 Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/kalyan-mudavath-58151b25a/)
 
