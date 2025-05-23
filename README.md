@@ -1,30 +1,18 @@
 # 👋 Hi, I’m Kalyan Mudavath  
 
-🚀 Passionate about Generative AI, and Full Stack Development!  
-🎯 Exploring Generative AI, LangChain, and LLM fine-tuning.  
-💡 Always learning, building, and sharing insights.  
-
-## 👀 Interests  
+ Passionate about Generative AI, and Full Stack Development!
+ Exploring Generative AI, LangChain, and LLM fine-tuning.  
+## Interests  
 - Generative AI, NLP, and Deep Learning  
 - Full Stack Development (MERN, Next.js)  
-- Open-Source Contributions  
 - DSA
-
-## 🌱 Currently Learning  
-- Advanced Generative AI (LLMs, Fine-Tuning,Landchain)  
-- AI-Powered Applications with LangChain  
-- Model Deployment & Scalability  
-
-## 🛠 Tech Stack  
+## Tech Stack  
 **Languages:** Python, Java, JavaScript  
 **Frameworks & Libraries:** React.js, Next.js, TailwindCSS, TensorFlow, LangChain  
-**Databases:** SQL, MongoDB, NeonDB  
-**Tools:** Git, Prisma, Firebase  
-
+**Databases:** SQL, MongoDB
+**Tools:** Git, Prisma,postman
 ## 📫 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/kalyan-mudavath-58151b25a/) • [GitHub](https://github.com/mudavathkalyan)   
-
-⚡ Fun Fact:☕💻!  
+[LinkedIn](https://www.linkedin.com/in/kalyan-mudavath-58151b25a/)
 
 
 <!---
